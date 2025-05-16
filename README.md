@@ -12,3 +12,6 @@ In essence, this application seeks to replicate and potentially extend the analy
 
 #### References
 - [Understanding the US Natural Gas Market: A Markov Switching VAR Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156000)
+
+#### License
+This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
