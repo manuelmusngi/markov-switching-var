@@ -1,4 +1,4 @@
-# Markov-Switching-VAR
+#### Markov-Switching-VAR
 This application, inspired by the research paper "Understanding the US Natural Gas Market: A Markov Switching VAR Approach," aims to model and analyze the dynamic behavior of the US natural gas market. [cite: 1] Utilizing the methodology of the paper, the application will employ a Markov Switching Vector Autoregressive (MS-VAR) model to identify distinct periods or "regimes" within the market's history. [cite: 1]
 
 The core functionality will involve:
@@ -9,3 +9,6 @@ The core functionality will involve:
 - Assessing the influence of oil prices: If augmented with oil price data (as done in the paper), the application will also analyze the regime-dependent impact of crude oil price shocks on natural gas prices. [cite: 1, 32, 34]
 
 In essence, this application seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
+
+#### References
+- [Understanding the US Natural Gas Market: A Markov Switching VAR Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156000)
