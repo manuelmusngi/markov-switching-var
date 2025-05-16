@@ -27,6 +27,8 @@ NaturalGasMSVAR/\
 │ └── analysis_report.txt\
 └── requirements.txt
 
+#### Dependencies
+  - [requirements.txt](https://github.com/manuelmusngi/Markov-Switching-VAR/blob/main/requirements.txt)
 
 #### References
 - [Understanding the US Natural Gas Market: A Markov Switching VAR Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156000)
