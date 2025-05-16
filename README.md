@@ -13,7 +13,7 @@ In essence, this application seeks to replicate and potentially extend the analy
 #### Project structure
 NaturalGasMSVAR/\
 ├── data/\
-│ └── natural_gas_data.csv
+│ └── natural_gas_data.csv\
 ├── src/\
 │ ├── __init__.py
 │ ├── data_loader.py
