@@ -25,7 +25,7 @@ NaturalGasMSVAR/\
 │ └── analysis_notebook.ipynb\
 ├── reports/\
 │ └── analysis_report.txt\
-└── requirements.txt
+└── [requirements.txt](https://github.com/manuelmusngi/Markov-Switching-VAR/blob/main/requirements.txt)
 
 #### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/Markov-Switching-VAR/blob/main/requirements.txt)
