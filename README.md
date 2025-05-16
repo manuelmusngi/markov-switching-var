@@ -17,7 +17,7 @@ NaturalGasMSVAR/\
 ├── src/\
 │ ├── __init__.py\
 │ ├── [data_loader.py](https://github.com/manuelmusngi/Markov-Switching-VAR/blob/main/src/data_loader.py)\
-│ ├── msvar_model.py\
+│ ├── [msvar_model.py](https://github.com/manuelmusngi/Markov-Switching-VAR/blob/main/src/msvar_model.py)\
 │ ├── analysis.py\
 │ ├── visualization.py\
 │ └── main.py\
