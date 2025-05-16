@@ -15,16 +15,16 @@ NaturalGasMSVAR/\
 ├── data/\
 │ └── natural_gas_data.csv\
 ├── src/\
-│ ├── __init__.py
-│ ├── data_loader.py
-│ ├── msvar_model.py
-│ ├── analysis.py
-│ ├── visualization.py
-│ └── main.py
+│ ├── __init__.py\
+│ ├── data_loader.py\
+│ ├── msvar_model.py\
+│ ├── analysis.py\
+│ ├── visualization.py\
+│ └── main.py\
 ├── notebooks/\
-│ └── analysis_notebook.ipynb
+│ └── analysis_notebook.ipynb\
 ├── reports/\
-│ └── analysis_report.txt
+│ └── analysis_report.txt\
 └── requirements.txt
 
 
