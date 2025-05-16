@@ -10,6 +10,24 @@ The core functionality will involve:
 
 In essence, this application seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
 
+#### Project structure
+NaturalGasMSVAR/
+├── data/
+│ └── natural_gas_data.csv
+├── src/
+│ ├── __init__.py
+│ ├── data_loader.py
+│ ├── msvar_model.py
+│ ├── analysis.py
+│ ├── visualization.py
+│ └── main.py
+├── notebooks/
+│ └── analysis_notebook.ipynb
+├── reports/
+│ └── analysis_report.txt
+└── requirements.txt
+
+
 #### References
 - [Understanding the US Natural Gas Market: A Markov Switching VAR Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3156000)
 
