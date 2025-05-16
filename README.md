@@ -11,19 +11,19 @@ The core functionality will involve:
 In essence, this application seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
 
 #### Project structure
-NaturalGasMSVAR/
-├── data/
+NaturalGasMSVAR/\
+├── data/\
 │ └── natural_gas_data.csv
-├── src/
+├── src/\
 │ ├── __init__.py
 │ ├── data_loader.py
 │ ├── msvar_model.py
 │ ├── analysis.py
 │ ├── visualization.py
 │ └── main.py
-├── notebooks/
+├── notebooks/\
 │ └── analysis_notebook.ipynb
-├── reports/
+├── reports/\
 │ └── analysis_report.txt
 └── requirements.txt
 
