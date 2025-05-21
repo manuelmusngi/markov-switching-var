@@ -3,12 +3,16 @@ This project, inspired by the research paper "Understanding the US Natural Gas M
 
 The core functionality will involve:
 
-- Identifying market regimes: Based on statistical modeling, the application will attempt to delineate different states the natural gas market has experienced over time, similar to the four regimes identified in the paper using Bayesian model comparison. [cite: 1]
-- Analyzing regime-dependent responses: Once regimes are identified, the application will analyze how key variables in the natural gas market (such as production, price, and potentially demand) respond to fundamental shocks (like supply or demand shifts) differently in each regime. This echoes the paper's finding that the market's sensitivity to shocks changed after the 1989 Decontrol Act. [cite: 1]
-- Investigating the role of specific shocks: Following the paper's findings, the application will explore the impact of natural gas demand and price shocks on production, and the extent to which natural gas prices are driven by specific demand factors. [cite: 1]
-- Assessing the influence of oil prices: If augmented with oil price data (as done in the paper), the application will also analyze the regime-dependent impact of crude oil price shocks on natural gas prices. [cite: 1, 32, 34]
+- Identifying market regimes:
+  Based on statistical modeling, the application will attempt to delineate different states the natural gas market has experienced over time, similar to the four regimes identified in the paper using Bayesian model comparison. [cite: 1]
+- Analyzing regime-dependent responses:
+  Once regimes are identified, the application will analyze how key variables in the natural gas market (such as production, price, and potentially demand) respond to fundamental shocks (like supply or demand shifts) differently in each regime. This echoes the paper's finding that the market's sensitivity to shocks changed after the 1989 Decontrol Act. [cite: 1]
+- Investigating the role of specific shocks:
+  Following the paper's findings, the application will explore the impact of natural gas demand and price shocks on production, and the extent to which natural gas prices are driven by specific demand factors. [cite: 1]
+- Assessing the influence of oil prices:
+  If augmented with oil price data (as done in the paper), the application will also analyze the regime-dependent impact of crude oil price shocks on natural gas prices. [cite: 1, 32, 34]
 
-In essence, this application seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
+In essence, this development seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
 
 #### Project structure
 NaturalGasMSVAR/\
