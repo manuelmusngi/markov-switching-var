@@ -1,5 +1,5 @@
 #### Markov-Switching-VAR
-This application, inspired by the research paper "Understanding the US Natural Gas Market: A Markov Switching VAR Approach," aims to model and analyze the dynamic behavior of the US natural gas market. [cite: 1] Utilizing the methodology of the paper, the application will employ a Markov Switching Vector Autoregressive (MS-VAR) model to identify distinct periods or "regimes" within the market's history. [cite: 1]
+This project, inspired by the research paper "Understanding the US Natural Gas Market: A Markov Switching VAR Approach," aims to model and analyze the dynamic behavior of the US natural gas market. [cite: 1] Utilizing the methodology of the paper, this development will employ a Markov Switching Vector Autoregressive (MS-VAR) model to identify distinct periods or "regimes" within the market's history. [cite: 1]
 
 The core functionality will involve:
 
