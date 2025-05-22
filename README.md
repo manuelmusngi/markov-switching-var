@@ -15,7 +15,7 @@ The core functionality will involve:
 
 In essence, this development seeks to replicate and potentially extend the analysis of the provided research paper by building a computational tool to understand the shifting dynamics and shock responses within the US natural gas market across different identified regimes.
 
-#### Project structure
+#### Project architecture
 NaturalGasMSVAR/\
 ├── data/\
 │ └── natural_gas_data.csv\
